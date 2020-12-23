@@ -30,7 +30,7 @@
       * [Rodando a API (servidor)](#-Rodando-a-API-servidor)
    * [Tecnologias](#-tecnologias)
    * [Licença](#-Licença)
-   * [Autor](#autor)
+   * [Autor](#%EF%B8%8F-autor)
 
 ## 💻 Sobre o projeto
 Mammoth - é uma API construída utilizando Node.js e Typescript. A ideia inicial do projeto será a de aprimorar minhas habilidades com Typescript e TDD com JEST, além é claro de criar um conjunto de serviços que será consumido por um CRM.
