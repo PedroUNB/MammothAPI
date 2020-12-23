@@ -7,7 +7,7 @@
 </h4>
 <br/>
 <p align="center">
-  <a href="https://github.com/PedroUNB/MammothAPI/blob/main/LICENSE">
+  <a href="https://github.com/PedroUNB/MammothAPI/blob/master/LICENSE">
     <img src="https://img.shields.io/badge/License-MIT-green.svg" alt="Mammoth API is released under the MIT license." />
   </a>
   <a href="https://nodejs.org/en/">
