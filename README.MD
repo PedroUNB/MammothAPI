@@ -30,13 +30,10 @@
       * [Rodando a API (servidor)](#-Rodando-a-API-servidor)
    * [Tecnologias](#-tecnologias)
    * [Licença](#-Licença)
-   * [Autor](#-autor)
+   * [Autor](#autor)
 
 ## 💻 Sobre o projeto
 Mammoth - é uma API construída utilizando Node.js e Typescript. A ideia inicial do projeto será a de aprimorar minhas habilidades com Typescript e TDD com JEST, além é claro de criar um conjunto de serviços que será consumido por um CRM.
-
-<br/>
-
 ## ✅ Features
 
 - [ ] Conexão com banco de dados POSTGRESQL
@@ -45,8 +42,6 @@ Mammoth - é uma API construída utilizando Node.js e Typescript. A ideia inicia
 - [ ] Login
 
 ## 🚀 Como iniciar
-
-<br/>
 
 ### 💡 Pré-requisitos
 
@@ -58,8 +53,6 @@ ferramentas:
 
 Além disto é bom ter um editor para trabalhar com o código como:
 - [VSCode](https://code.visualstudio.com/)
-
-<br/>
 
 ### 🎲 Rodando a API (servidor)
 
@@ -106,7 +99,6 @@ As seguintes ferramentas foram usadas na construção do projeto:
 Este projeto esta sobe a licença MIT.
 
 ## Autor
----
 
 <a href="https://www.linkedin.com/in/pedro-henrique-2686a5187/">
  <img style="border-radius: 50%;" src="https://media-exp1.licdn.com/dms/image/C4E03AQFOxT_VMJbNQA/profile-displayphoto-shrink_400_400/0/1600901688860?e=1614211200&v=beta&t=fpEOu2VL54_6BEuGDFwm8adcWW9WEgeF9ml2oeUQIQQ" width="100px;" alt=""/>
